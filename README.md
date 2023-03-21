@@ -15,4 +15,6 @@ This is a demo script for shape memory alloy motor prj on Renesas/ARM M0+.
 ## controller design
 ![alt text](https://github.com/Wowowdog/demo-SMA-motor-prj/blob/master/ctl1.png?raw=true)
 
+## application image
+![alt text](https://github.com/Wowowdog/demo-SMA-motor-prj/blob/master/mag1.png?raw=true)
 
